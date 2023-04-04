@@ -1,16 +1,16 @@
-### Hi there 👋
+## About Me 👋🏽🌎🔬🌐🚀
+I'm a geospatial engineer graduated from UNMSM, Lima, Peru. I love creating applications that allow people to visualize and analyze geospatial data in an easy and effective way.
 
-<!--
-**JulioContrerasH/JulioContrerasH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Skills 🛠️
+- Geospatial data analysis and visualization 🗺️📊
+- Web GIS application development 🌐👨‍💻
+- R programming 📈👨‍💻
+- Python programming 🐍👨‍💻
+- JavaScript programming 🌐👨‍💻
+- Google Earth Engine 🌍🌱
+- ArcPy for ArcGIS 🌳🔍
+- Machine learning and AI 🤖🧠
+- Deep learning 🤯💻
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm currently learning 🤓
+Currently, I'm learning different AI and deep learning tools to develop more sophisticated and advanced applications. Additionally, I'm working to improve my programming and data analysis skills to create more effective and efficient solutions.

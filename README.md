@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./luffy.gif" width=70%>
+  <img src="./luffy.gif" width=100%>
 </p>
 
 # About Me 👋🏽🌎🔬🌐🚀

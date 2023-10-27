@@ -1,4 +1,6 @@
-![Luffy](https://i.gifer.com/W6a8.gif)
+<p align="center">
+  <img src="https://i.gifer.com/W6a8.gif" width=70%>
+</p>
 
 # About Me 👋🏽🌎🔬🌐🚀
 I'm a geospatial engineer graduated from UNMSM, Lima, Peru. I love creating applications that allow people to visualize and analyze geospatial data in an easy and effective way.
